@@ -1,0 +1,15 @@
+<suite name="sample suite">
+
+
+<test name="Learning Jenkins">
+
+
+<classes>
+
+<class name="session_2.jenkins_demo"/>
+
+</classes>
+
+</test>
+
+</suite>
